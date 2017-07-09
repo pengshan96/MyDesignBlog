@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "风景"
 date:   2015-10-09 15:39:40
 preview: https://unsplash.it/300/300
 ---
