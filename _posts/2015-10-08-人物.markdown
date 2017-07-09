@@ -7,4 +7,4 @@ preview: https://www.pspeng.info/images/2_小图.jpg
 
 ![Picture 1](https://www.pspeng.info/images/2_大图.jpg)
 
-人物角色名字为艾斯，武器是枪。
+人物角色名字为艾斯，武器是枪。。。。。。。
