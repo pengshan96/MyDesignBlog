@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "角色"
+title:  "人物"
 date:   2017-07-09
 preview: https://www.pspeng.info/images/2_小图.jpg
 ---
