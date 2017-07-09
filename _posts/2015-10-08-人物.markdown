@@ -2,9 +2,9 @@
 layout: post
 title:  "人物"
 date:   2015-10-06 15:39:40
-preview: https://pengshan96.github.io/MyDesignBlog/images/2_小图.jpg
+preview: https://www.pspeng.info/images/2_小图.jpg
 ---
 
-![Picture 1](https://pengshan96.github.io/MyDesignBlog/images/2_大图.jpg)
+![Picture 1](https://www.pspeng.info/images/2_大图.jpg)
 
 关于这幅人物作品的介绍。。。。。。
