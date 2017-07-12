@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "洞穴"
-date:   2017-07-10 15:39:40
-preview: https://www.pspeng.info/images/4_小图.jpg
+date:   2017-07-08 15:39:40
+preview: https://www.pspeng.info/images/4_小图01.jpg
+preview: https://www.pspeng.info/images/4_小图02.jpg
+preview: https://www.pspeng.info/images/4_小图03.jpg
 ---
 
 ![Picture 1](https://www.pspeng.info/images/4_大图_01.jpg)
