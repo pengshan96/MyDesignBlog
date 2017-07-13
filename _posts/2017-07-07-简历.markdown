@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "简历"
-date:   2017-07-08 15:39:40
+date:   2017-07-07 15:39:40
 preview: https://www.pspeng.info/images/5_小图.jpg
 ---
 
@@ -15,6 +15,6 @@ preview: https://www.pspeng.info/images/5_小图.jpg
 ![Picture 1](https://www.pspeng.info/images/5_大图_08.jpg)
 ![Picture 1](https://www.pspeng.info/images/5_大图_09.jpg)
 ![Picture 1](https://www.pspeng.info/images/5_大图_10.jpg)
-![Picture 1](https://www.pspeng.info/images/5_大图_11.jpg)
+
 
 个人简历
