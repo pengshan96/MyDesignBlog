@@ -2,16 +2,16 @@
 layout: post
 title:  "简历"
 date:   2017-07-07 15:39:40
-preview: https://www.pspeng.info/images/5_小图.jpg
+preview:  https://pengshan96.github.io/MyDesignBlog/images/5_小图.jpg
 ---
 
-![Picture 1](https://www.pspeng.info/images/5_大图_01.jpg)
-![Picture 1](https://www.pspeng.info/images/5_大图_02.jpg)
-![Picture 1](https://www.pspeng.info/images/5_大图_03.jpg)
-![Picture 1](https://www.pspeng.info/images/5_大图_04.jpg)
-![Picture 1](https://www.pspeng.info/images/5_大图_05.jpg)
-![Picture 1](https://www.pspeng.info/images/5_大图_06.jpg)
-![Picture 1](https://www.pspeng.info/images/5_大图_07.jpg)
+![Picture 1](https://pengshan96.github.io/MyDesignBlog/images/5_大图_01.jpg)
+![Picture 1](https://pengshan96.github.io/MyDesignBlog/images/5_大图_02.jpg)
+![Picture 1](https://pengshan96.github.io/MyDesignBlog/images/5_大图_03.jpg)
+![Picture 1](https://pengshan96.github.io/MyDesignBlog/images/5_大图_04.jpg)
+![Picture 1](https://pengshan96.github.io/MyDesignBlog/images/5_大图_05.jpg)
+![Picture 1](https://pengshan96.github.io/MyDesignBlog/images/5_大图_06.jpg)
+![Picture 1](https://pengshan96.github.io/MyDesignBlog/images/5_大图_07.jpg)
 
 
 个人简历
