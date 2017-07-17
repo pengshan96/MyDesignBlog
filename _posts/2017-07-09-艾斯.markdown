@@ -2,12 +2,12 @@
 layout: post
 title:  "艾斯"
 date:   2017-07-09 15:39:40
-preview:https://pengshan96.github.io/MyDesignBlog/images/2_小图.jpg
+preview: https://pengshan96.github.io/MyDesignBlog/images/2_小图.jpg
 ---
 
-![Picture 1]( https://pengshan96.github.io/MyDesignBlog/images/2_大图_01.jpg)
-![Picture 1]( https://pengshan96.github.io/MyDesignBlog/images/2_大图_02.jpg)
-![Picture 1]( https://pengshan96.github.io/MyDesignBlog/images/2_大图_03.jpg)
-![Picture 1]( https://pengshan96.github.io/MyDesignBlog/images/2_大图_04.jpg)
+![Picture 1](https://pengshan96.github.io/MyDesignBlog/images/2_大图_01.jpg)
+![Picture 1](https://pengshan96.github.io/MyDesignBlog/images/2_大图_02.jpg)
+![Picture 1](https://pengshan96.github.io/MyDesignBlog/images/2_大图_03.jpg)
+![Picture 1](https://pengshan96.github.io/MyDesignBlog/images/2_大图_04.jpg)
 
 人物角色名字为艾斯，武器是枪。
